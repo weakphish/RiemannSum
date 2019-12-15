@@ -3,7 +3,7 @@ import numpy
 
 # define functions used for calculations
 
-
+# define your function here!
 def func(x):
     return ((x * x) / (math.log(x)))
 
@@ -31,7 +31,7 @@ def approximate(dx, function, points):
     return approx
 
 
-# perform calculations and gather user input
+# gather user input, perform calculations
 
 print("Function = (x^2)/(ln(x))\n")
 
